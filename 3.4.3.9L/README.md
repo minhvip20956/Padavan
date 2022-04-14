@@ -1,6 +1,6 @@
 ## Vui lòng chọn chính xác phiên bản phần cứng và phần mềm của thiết bị | Please select the correct hardware and software version of your device
 
-### Firmware tại đây chỉ sử dụng cho mục đích thử nghiệm. Mọi hư hỏng do nạp firmware các bạn phải tự chịu trách nhiệm | The firmware here is for testing purposes only. Any damage caused by loading the firmware is your own responsibility
+### Firmware tại đây chỉ sử dụng cho mục đích thử nghiệm. Mọi hư hỏng do nạp firmware này các bạn phải tự chịu trách nhiệm | The firmware here is for testing purposes only. Any damage caused by downloading this firmware is your own responsibility
 
 ## Firmware List:
 
