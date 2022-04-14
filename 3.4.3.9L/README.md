@@ -1,5 +1,11 @@
-MI-MINI_3.4.3.9L-100.trx => Xiaomi Mi Mini (USB)
+## Vui lòng chọn chính xác phiên bản phần cứng và phần mềm của thiết bị | Please select the correct hardware and software version of your device
 
-MI-NANO_3.4.3.9L-100.trx => Xiaomi Mi Nano
+### Firmware tại đây chỉ sử dụng cho mục đích thử nghiệm. Mọi hư hỏng do nạp firmware các bạn phải tự chịu trách nhiệm | The firmware here is for testing purposes only. Any damage caused by loading the firmware is your own responsibility
 
-TL_WR840N-V6_3.4.3.9L-100.bin => TPLink WR840N V6
+## Firmware List:
+
+- MI-MINI_3.4.3.9L-100.trx => Xiaomi Mi Mini (USB)
+
+- MI-NANO_3.4.3.9L-100.trx => Xiaomi Mi Nano
+
+- TL_WR840N-V6_3.4.3.9L-100.bin => TPLink WR840N V6
